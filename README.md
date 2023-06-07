@@ -1,4 +1,4 @@
-# Live URL: http://chat-app-php.000webhostapp.com/
+### Live URL: [chat-app](http://chat-app-php.000webhostapp.com/)
 
 # chat-app
 This is a web app which is capable of real time communication.
